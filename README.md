@@ -25,7 +25,7 @@ A simple yet effective **Student Record Management System** developed in **Java*
 
 | Home Page | Add Student | Search Student |
 |----------|-------------|----------------|
-| ![Home](screenshots/home.PNG) | ![Add](screenshots/Showall.PNG) | ![Search](screenshots/search.PNG) |
+| ![Home](DsLab/screenshots/home.PNG) | ![Add](screenshots/Showall.PNG) | ![Search](screenshots/search.PNG) |
 
 | Sort Records |
 |--------------|
