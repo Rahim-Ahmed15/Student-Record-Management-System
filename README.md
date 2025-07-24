@@ -25,11 +25,11 @@ A simple yet effective **Student Record Management System** developed in **Java*
 
 | Home Page | Add Student | Search Student |
 |----------|-------------|----------------|
-| ![Home](DsLab/Screenshot/home.PNG) | ![Add](screenshots/Showall.PNG) | ![Search](screenshots/search.PNG) |
+| ![Home](DsLab/Screenshot/home.PNG) | ![Add](DsLab/Screenshot/Showall.PNG) | ![Search](DsLab/Screenshot/search.PNG) |
 
 | Sort Records |
 |--------------|
-| ![Sort](screenshots/Sort.PNG) |
+| ![Sort](DsLab/Screenshot/Sort.PNG) |
 
 > Screenshots show a user-friendly interface to add, sort, search, and manage student records visually.
 
